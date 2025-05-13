@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT Academy\\ExampleDZLesson4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61973909-51D8-402C-AC80-5362A6C9E38A}|ExampleDZLesson4\\ExampleDZLesson4.csproj|d:\\it academy\\exampledzlesson4\\exampledzlesson4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61973909-51D8-402C-AC80-5362A6C9E38A}|ExampleDZLesson4\\ExampleDZLesson4.csproj|solutionrelative:exampledzlesson4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9297F4BD-C42A-4B07-BE6C-B9A840E7E92C}|ExampleDZLesson4.4\\ExampleDZLesson4.4.csproj|d:\\it academy\\exampledzlesson4\\exampledzlesson4.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9297F4BD-C42A-4B07-BE6C-B9A840E7E92C}|ExampleDZLesson4.4\\ExampleDZLesson4.4.csproj|solutionrelative:exampledzlesson4.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858F0158-CC7F-4240-9F2D-DE8A1F69017A}|ExampleDZLesson4.3\\ExampleDZLesson4.3.csproj|d:\\it academy\\exampledzlesson4\\exampledzlesson4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858F0158-CC7F-4240-9F2D-DE8A1F69017A}|ExampleDZLesson4.3\\ExampleDZLesson4.3.csproj|solutionrelative:exampledzlesson4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5C987-4683-4976-BA65-1EC3913F1695}|ExampleDZLesson4.2\\ExampleDZLesson4.2.csproj|d:\\it academy\\exampledzlesson4\\exampledzlesson4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B5C987-4683-4976-BA65-1EC3913F1695}|ExampleDZLesson4.2\\ExampleDZLesson4.2.csproj|solutionrelative:exampledzlesson4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT Academy\\ExampleDZLesson4\\ExampleDZLesson4\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleDZLesson4\\Program.cs",
+              "ToolTip": "D:\\IT Academy\\ExampleDZLesson4\\ExampleDZLesson4\\Program.cs",
+              "RelativeToolTip": "ExampleDZLesson4\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:57:49.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT Academy\\ExampleDZLesson4\\ExampleDZLesson4.3\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleDZLesson4.3\\Program.cs",
+              "ToolTip": "D:\\IT Academy\\ExampleDZLesson4\\ExampleDZLesson4.3\\Program.cs",
+              "RelativeToolTip": "ExampleDZLesson4.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:57:37.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT Academy\\ExampleDZLesson4\\ExampleDZLesson4.2\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleDZLesson4.2\\Program.cs",
+              "ToolTip": "D:\\IT Academy\\ExampleDZLesson4\\ExampleDZLesson4.2\\Program.cs",
+              "RelativeToolTip": "ExampleDZLesson4.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:37:27.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT Academy\\ExampleDZLesson4\\ExampleDZLesson4.4\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleDZLesson4.4\\Program.cs",
+              "ToolTip": "D:\\IT Academy\\ExampleDZLesson4\\ExampleDZLesson4.4\\Program.cs",
+              "RelativeToolTip": "ExampleDZLesson4.4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:59:37.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
